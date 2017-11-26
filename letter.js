@@ -1,3 +1,5 @@
+//constructor to verify letter in word.
+
 function Letter(word, unsolvedWord, guessedLetter, lettersGuessed) {
     this.word = word;
     this.unsolvedWord = unsolvedWord;

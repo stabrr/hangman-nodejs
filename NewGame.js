@@ -1,3 +1,5 @@
+//constructor for start of game
+
 function NewGame(currentWord) {
     this.startNewGame = false;
     this.currentWord = currentWord;
